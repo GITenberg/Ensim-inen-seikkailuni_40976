@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40598
     wikipedia: http://de.wikipedia.org/wiki/Ernst_von_Wolzogen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40976#Ensim-inen-seikkailuni
 gutenberg_issued: '2012-10-08'
 gutenberg_type: Text
 identifiers:
